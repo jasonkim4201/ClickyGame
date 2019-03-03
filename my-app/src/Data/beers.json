@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Guinness Draught",
+    "image": "https://products3.imgix.drizly.com/ci-guinness-draught-57a370742d804361.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Founders Canadian Breakfast Stout",
+    "image": "https://products1.imgix.drizly.com/ci-founders-canadian-breakfast-stout-e1223900d1b4013f.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Founders Porter",
+    "image": "https://products1.imgix.drizly.com/ci-founders-porter-c21107db340f498b.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Rasputin Russian Imperial Stout",
+    "image": "https://products0.imgix.drizly.com/ci-north-coast-old-rasputin-russian-imperial-stout-b937a7f3444b3e90.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Founders Kentucky Breakfast Stout",
+    "image": "https://products2.imgix.drizly.com/ci-founders-brew-kentucky-breakfast-stout-0071e74b170562f8.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Ballast Point Victory At Sea",
+    "image": "https://products0.imgix.drizly.com/ci-ballast-point-victory-at-sea-58470aa20659b7e0.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Southern Tier 2X Double Milk Stout",
+    "image": "https://products3.imgix.drizly.com/ci-southern-tier-2x-stout-62d59d09662dcd6a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Founders Dirty Bastard",
+    "image": "https://products0.imgix.drizly.com/ci-founders-dirty-bastard-eff491ac2b76817f.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Great Lakes Edmund Fitzgerald Porter",
+    "image": "https://products1.imgix.drizly.com/ci-great-lakes-edmund-fitzgerald-porter-47be052a373c2828.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Highland Porter",
+    "image": "https://products0.imgix.drizly.com/ci-highland-porter-082d4b1f02ca05f8.png?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Rogue Shakespeare Stout",
+    "image": "https://products0.imgix.drizly.com/ci-rogue-shakespeare-stout-db7cd4672eeeb3e5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Sierra Nevada Stout",
+    "image": "https://products0.imgix.drizly.com/ci-sierra-nevada-stout-2c8daa9c4013979e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "clicked": false
+  }
+]
