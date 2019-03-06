@@ -23,11 +23,12 @@ class MyVerticallyCenteredModal extends Component {
           <h5>Rules:</h5>
           <br/>
           <p>Welcome to the beer clicky game. Click on a beer and score a point but don't pick the same beer more than once! The goal is to pick as much unique beers as possible. Good luck and enjoy!!</p>
+          <h5>Questions:</h5>
+          <hr/>
           <p><strong>Q:</strong>What is this?</p>
           <p><strong>A:</strong> This is a game powered by React.js and made to develop my knowledge in this awesome library!</p> 
-          <br/>
           <p><strong>Q:</strong>Those are some interesting beers what are they?</p>
-          <p><strong>A:</strong>Well if you are interested in the types of beer you can see my beers.json file <a href="#">here</a></p>
+          <p><strong>A:</strong>Well if you are interested in the types of beer you can see my beers data file <a href="https://github.com/jasonkim4201/clicky-game/blob/master/src/beers.json">here.</a></p>
           <br/>
         </Modal.Body>
         <Modal.Footer>
